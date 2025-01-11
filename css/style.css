@@ -1,0 +1,377 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: "Source Sans Pro", Arial, sans-serif;
+}
+.main{
+  width: 100%;
+  float: left;
+}
+.second ul li{
+  float: left;
+  margin-left: 23px;
+  display: inline-block;
+  margin-top: 30px;
+  color: white;
+}
+.header{
+  width: 100%;
+  float: left;
+}
+.first{
+  float: left;
+  padding: 15px;
+  padding-right: 13%;
+  font-size: 22px;
+  color: white;
+  margin: 5px;
+}
+.main{
+  background-image: url("../images/pexels-weddingphotography-1444442.jpg");
+  position: relative;
+  background-size:cover;
+  width: 100%;
+  height: 750px;
+}
+.overlay {
+  background-color:  rgba(133, 10, 74, 0.4);
+  height: 100%;
+}
+.text{
+  margin-top: 36px;
+  color: white;
+  font-size: 40px;
+  font-family: fangsong;
+  padding-left: 38%;
+}
+.icon{
+  background-color: #c2015a;
+  width: 150px;
+  height: 150px;
+  border-radius: 99px;
+  margin-top: 36%;
+  margin-left: 45%;
+  border: 4px solid #ec539a;
+}
+.box h3 {
+  border: 1px dashed #d16c9b;
+  color: #d16c9b;
+  display:inline-block; 
+  padding: 6px;
+  margin-left: 35%;
+  margin-top: 60px;
+  margin-bottom: 35px;
+ }
+ .box h1 {
+  color: #d16c9b;
+  font-size: 50px;
+  padding-top: 0%;
+  padding-left:32%;
+ }
+ .sec_box{
+  width: 51%;
+  margin-left: 56px;
+  margin-top: 205px;
+  text-align: center;
+  color: #d16c9b;
+ }
+ .imp{
+  margin-bottom: 20%;
+  font-size: 72px;
+  color: #c1226c;
+ }
+ .sec_box p{
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 23px;
+  margin-top: 130px;
+ }
+ .pehli_img img{
+  float: left;
+  width: 32%;        
+  margin-top: -620px;
+  margin-left: 62%;
+  border: 15px solid #e97eb0;
+ }
+ .third_box{
+  width: 51%;
+  margin-right: 44%;
+  margin-top: 338px;
+  text-align: center;
+  width: 51%;
+  margin-left: 44%;
+  color: #d16c9b;
+ }
+ .third_box p{
+    line-height: 20px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+ }
+.dusri_img img{
+    float: left;
+    width: 32%;        
+    margin-top: -630px;
+    margin-left: 62px;
+    border: 15px solid #e97eb0;
+}
+.main_img img{
+  width: 100%;
+  margin-top: 73px;
+  float: left;
+  margin-bottom: 499px;
+}
+.fiss{
+  background-color: rgba(193, 34, 108, 0.2);
+          width: 100%;
+          float: left;
+          position: absolute;
+          margin-top: 120px;
+          height: 700px;
+}
+.fiss h1{
+  color: white;
+          padding: 39px 429px;
+          font-size: 63px;
+}
+.min{
+  background-color: #c9799e;
+  width: 89%;
+  height: 302px;
+  position: absolute;
+  margin-top: 48%;
+  margin-left: 57px;
+}
+.min h1 {
+  margin-left: 20%;
+  margin-top: 34px;
+  font-size: 48px;
+  color: #82053f;
+  margin-bottom: 30px;
+  font-family: emoji;
+}
+.min p{
+  padding: 0px 50px;
+  text-align: center;
+  line-height: 26px;
+  font-family: emoji;
+  font-size: 20px;
+  color: #4a0827;
+}
+.fourth_main{
+  width: 100%;
+  float: left;
+}
+.nexo h3{
+  border: 1px dashed #d16c9b;
+  color: #d16c9b;
+  display:inline-block; 
+  padding: 6px;
+  margin-left: 38%;
+  margin-bottom: 35px;
+  margin-top: 0%;
+}
+.nexo h2{
+  color: #d16c9b;
+  font-size: 55px;
+  padding-top: 0%;
+  padding-left:36%;
+  margin-top: 0px;
+}
+.nexo{
+  margin-top: -370px;
+  width: 100%;
+}
+.nexo h1{
+  color:#e492b8;
+  font-size: 60px;
+  padding: 30px 13px;
+  margin-top: 20px;
+  letter-spacing: 70px;
+  text-align: center;
+}
+.cele{
+  background-color: #6b133c;
+}
+.nexoxo{
+  background-image: url("../images/pexels-photo-5433151.jpeg");
+  position: relative;
+  background-size:cover;
+  width: 100%;
+  height: 900px;
+  top: 180px;
+}
+.nexoxo::before{
+  content: "";
+  position: absolute;
+  width: 691px;
+  height: 1%;
+  top: -10%;
+  background-color: #82053f;
+}
+.nexoxo::after{
+  content: "";
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: -99px;
+  right: 44%;
+  background-color:#fc91c3;
+  border-radius: 99px;
+}
+#overlay{
+    background-color:  rgba(48, 13, 31, 0.6);
+    height: 100%;
+}
+.oyuuuu::before{
+  content: "";
+  position: absolute;
+  width: 691px;
+  height: 1%;
+  top: 110%;
+  left: 43%;
+  background-color: #82053f;
+}
+.oyuuuu::after{
+  content: "";
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 109%;
+  right: 55%;
+  background-color:#fc91c3;
+  border-radius: 99px;
+}
+.pihu{
+  background-color:rgba(215, 63, 134, 0.7);
+  width: 370px;
+  height: 290px;
+  position: relative;
+  margin: 37px;
+  float: left;
+  margin-top: 30%;
+  margin-left: 10%;
+}
+.pihu h1{
+  padding: 21px 59px;
+  font-size: 37px;
+  font-family: cursive;
+}
+.pihu p{
+  padding: 17px 25px;
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+}
+.piru{
+  background-color:rgba(215, 63, 134, 0.7);
+  width: 370px;
+  height: 290px;
+  position: relative;
+  margin-left: 695px;
+  margin-top: -325px;
+  float: left;
+}
+.piru h1{
+  padding: 21px 59px;
+  font-size: 37px;
+  font-family: cursive;
+}
+.piru p{
+  padding: 17px 25px;
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+}
+.gall h3{
+  border: 1px dashed #d16c9b;
+  color: #d16c9b;
+  display:inline-block; 
+  padding: 6px;
+  margin-left: 38%;
+  margin-bottom: 35px;
+  margin-top: 0%;
+}
+.gall h1{
+  color:#c14d83;
+  font-size: 60px;
+  padding: 30px;
+  margin-top: 20px;
+  letter-spacing: 70px;
+  text-align: center;
+}
+.gall{
+  float: left;
+  width: 100%;
+  margin-top: 29%;
+}
+.colu{
+  background-color: #c2015a;
+  float: left;
+  width: 100%;
+  position: relative;
+  height: 900px;
+  margin-bottom: 60px;
+}
+footer{
+  width: 99%;
+}
+.colu img{
+  width: 100%;
+  margin-top: 30px;
+  height: 250px;
+  padding-top: 10px;
+  
+}
+.first h2{
+  margin-top: 7%;
+}
+.piru2{
+  background-color:rgba(215, 63, 134, 0.7);
+  width: 370px;
+  height: 290px;
+  position: relative;
+  margin-left: 695px;
+  margin-top: -325px;
+  float: left;
+}
+.piru2 h1{
+  padding: 21px 59px;
+  font-size: 37px;
+  font-family: cursive;
+}
+.piru2 p{
+  padding: 17px 25px;
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+}
+.piru3{
+  background-color:rgba(215, 63, 134, 0.7);
+  width: 370px;
+  height: 290px;
+  position: relative;
+  margin-left: 695px;
+  margin-top: -325px;
+  float: left;
+}
+.piru3 h1{
+  padding: 21px 59px;
+  font-size: 37px;
+  font-family: cursive;
+}
+.piru3 p{
+  padding: 17px 25px;
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+@media (min-width:320px) and (max-width:700px) {
+  
+}
